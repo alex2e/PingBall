@@ -732,7 +732,7 @@ BoxCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 660248025}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: c209051fb939a124b8b4b99e0f41fbbd, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -816,7 +816,7 @@ BoxCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 751001471}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: c209051fb939a124b8b4b99e0f41fbbd, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -980,7 +980,7 @@ BoxCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 771493907}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: c209051fb939a124b8b4b99e0f41fbbd, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -1064,7 +1064,7 @@ BoxCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 778801813}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: c209051fb939a124b8b4b99e0f41fbbd, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -1188,15 +1188,15 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4537706819755782, guid: 222ba24a7f82ba345939531f937b3153, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 3.08
+      value: 3.11
       objectReference: {fileID: 0}
     - target: {fileID: 4537706819755782, guid: 222ba24a7f82ba345939531f937b3153, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 1.13
+      value: 0.13499999
       objectReference: {fileID: 0}
     - target: {fileID: 4537706819755782, guid: 222ba24a7f82ba345939531f937b3153, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -5.4150004
       objectReference: {fileID: 0}
     - target: {fileID: 4537706819755782, guid: 222ba24a7f82ba345939531f937b3153, type: 2}
       propertyPath: m_LocalRotation.x
@@ -1292,7 +1292,7 @@ BoxCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 939986202}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: c209051fb939a124b8b4b99e0f41fbbd, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -1792,7 +1792,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxPower: 100
-  powerSlider: {fileID: 0}
+  powerSlider: {fileID: 1977537442}
 --- !u!1 &1505543134
 GameObject:
   m_ObjectHideFlags: 0
@@ -1949,7 +1949,7 @@ BoxCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1745179543}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: c209051fb939a124b8b4b99e0f41fbbd, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -2185,7 +2185,7 @@ BoxCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1826797096}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: c209051fb939a124b8b4b99e0f41fbbd, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -2269,7 +2269,7 @@ BoxCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1847079104}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: c209051fb939a124b8b4b99e0f41fbbd, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -2353,7 +2353,7 @@ BoxCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1853333449}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: c209051fb939a124b8b4b99e0f41fbbd, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -2522,7 +2522,7 @@ BoxCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2059123585}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: c209051fb939a124b8b4b99e0f41fbbd, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
