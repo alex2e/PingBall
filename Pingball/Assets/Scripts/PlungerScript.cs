@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 
 public class PlungerScript : MonoBehaviour {
-    public float maxPower = 100f;
+    public float maxPower = 200f;
     public Slider powerSlider;
 
     float power;
